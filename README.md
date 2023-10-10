@@ -1,6 +1,10 @@
-# 04 Web APIs: Code Quiz
+# UNFINISHED 
 
-## Your Task
+## basically just notes
+## will fix when I have more time
+<!-- 04 Web APIs: Code Quiz -->
+
+<!-- ## Your Task
 
 At some point in your journey to become a full-stack web developer, you’ll likely be asked to complete a coding assessment&mdash;perhaps as part of an interview process. A typical coding assessment includes both multiple-choice questions and interactive coding challenges. 
 
@@ -96,4 +100,4 @@ You are required to submit BOTH of the following for review:
 
 ---
 
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved. -->
